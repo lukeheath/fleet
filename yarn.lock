@@ -4985,10 +4985,10 @@ bourbon@^4.2.6:
   resolved "https://registry.npmjs.org/bourbon/-/bourbon-4.3.4.tgz"
   integrity sha1-TaOAAp6SwMj5dkx3lFGhNLEefMM=
 
-bourbon@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/bourbon/-/bourbon-5.1.0.tgz"
-  integrity sha512-rO4rwNAVNuzPmnL+DruxAe7DR2YFFo4nHsgDVRd9URMgDxtHmVBUnvFLXPan6teVe7jkybCyxcnR+CKClotj3g==
+bourbon@^7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/bourbon/-/bourbon-7.2.0.tgz#32bc40fd368383e4b7b82bb832c34c67584282bd"
+  integrity sha512-Zx/lY/YzMkSyFC7yYPp9QcI2OCWnUHQdSrXvRtfnaUGT/edKNh44mVPYkP7QEyk6yQOLCJottsuTnidqKcpbNg==
 
 boxen@^5.1.2:
   version "5.1.2"
