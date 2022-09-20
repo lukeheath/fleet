@@ -1217,8 +1217,8 @@ github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6
 github.com/theupdateframework/go-tuf v0.3.0 h1:od2sc5+BSkKZhmUG2o2rmruy0BGSmhrbDhCnpxh87X8=
 github.com/theupdateframework/go-tuf v0.3.0/go.mod h1:E5XP0wXitrFUHe4b8cUcAAdxBW4LbfnqF4WXXGLgWNo=
 github.com/theupdateframework/notary v0.6.1/go.mod h1:MOfgIfmox8s7/7fduvB2xyPPMJCrjRLRizA8OFwpnKY=
-github.com/throttled/throttled/v2 v2.8.0 h1:B5VfdM8BE+ClI2Ji238SbNOTWfYcocvuAhgT27lvwrE=
-github.com/throttled/throttled/v2 v2.8.0/go.mod h1:q1QyZVQXxb2NUfJ+Hjucmlrsrz9s/jt2ilMwSMo7a2I=
+github.com/throttled/throttled/v2 v2.9.1 h1:Es7fBRL04IUOvs4RwbieshgyccyztfaAjzQdKbrpqyo=
+github.com/throttled/throttled/v2 v2.9.1/go.mod h1:SxVlv4wUgeS/hWOSMDeb9Ez+stPqP7tWY5wI5BUiGqs=
 github.com/tj/assert v0.0.0-20171129193455-018094318fb0/go.mod h1:mZ9/Rh9oLWpLLDRpvE+3b7gP/C2YyLFYxNmcLnPTMe0=
 github.com/tj/assert v0.0.3 h1:Df/BlaZ20mq6kuai7f5z2TvPFiwC3xaWJSDQNiIS3Rk=
 github.com/tj/assert v0.0.3/go.mod h1:Ne6X72Q+TB1AteidzQncjw9PabbMp4PBMZ1k+vd1Pvk=
