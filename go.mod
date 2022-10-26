@@ -11,7 +11,7 @@ require (
 	github.com/WatchBeam/clock v0.0.0-20170901150240-b08e6b4da7ea
 	github.com/XSAM/otelsql v0.10.0
 	github.com/andygrunwald/go-jira v1.16.0
-	github.com/aws/aws-sdk-go v1.43.16
+	github.com/aws/aws-sdk-go v1.44.123
 	github.com/beevik/etree v1.1.0
 	github.com/briandowns/spinner v1.13.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
