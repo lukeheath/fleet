@@ -13,7 +13,7 @@ require (
 	github.com/XSAM/otelsql v0.10.0
 	github.com/andygrunwald/go-jira v1.16.0
 	github.com/antchfx/xmlquery v1.3.14
-	github.com/aws/aws-sdk-go v1.44.288
+	github.com/aws/aws-sdk-go v1.47.5
 	github.com/beevik/etree v1.1.0
 	github.com/beevik/ntp v0.3.0
 	github.com/briandowns/spinner v1.13.0
@@ -246,7 +246,6 @@ require (
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
 	github.com/klauspost/compress v1.15.11 // indirect
-	github.com/lib/pq v1.10.9 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -295,7 +294,6 @@ require (
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	github.com/yashtewari/glob-intersection v0.1.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	github.com/ziutek/mymysql v1.5.4 // indirect
 	go.elastic.co/apm/module/apmhttp/v2 v2.3.0 // indirect
 	go.elastic.co/fastjson v1.1.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
